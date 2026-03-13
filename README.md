@@ -1,12 +1,12 @@
 # Microsoft Sentinel — Automated Deployment (Bicep)
 
-> Replace `YOUR-GITHUB-ORG/YOUR-REPO` below after publishing this project to GitHub.
+
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDabucsa%2FSentinel-Bicep%2Fmain%2Fazuredeploy.json)
 
 > **v2.0** — Modular Bicep rewrite with 10+ free-tier connectors, workbooks, and automated Content Hub analytics rule activation.
 
-> Handoff rápido: ver [GUIA-AVANCE.md](GUIA-AVANCE.md) para el resumen del avance, flujo recomendado y próximos pasos.
+
 
 ---
 
